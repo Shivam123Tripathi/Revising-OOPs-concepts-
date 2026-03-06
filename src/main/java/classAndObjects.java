@@ -1,5 +1,4 @@
-public class classAndObjects {
-    class Car{
+class Car{
         String brand;
         int speed;
 
@@ -7,7 +6,7 @@ public class classAndObjects {
             System.out.println(brand + "is driving at " + speed + "km/h");
         }
     }
-}
+
 
 //here we created blueprint called car(this is class)
 //car will have brand(brand property)
